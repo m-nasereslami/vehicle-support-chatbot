@@ -55,7 +55,7 @@ streamlit run app.py --server.headless false
 ### **Access the Chatbot UI**
 - Open **Streamlit** in your browser:
   ```
-http://localhost:8501
+  http://localhost:8501
   ```
 
 ### **Use the API**
@@ -68,8 +68,11 @@ http://localhost:8501
 
 ## Features
  **Vehicle Manual QA** → Answers vehicle-related questions.
+
  **Car Part Recognition** → Detects car parts from uploaded images.
+
  **FastAPI Backend** → API for integration with other applications.
+ 
  **Streamlit UI** → Easy-to-use chatbot interface.
 
 ---
