@@ -23,7 +23,7 @@ The chatbot utilizes:
 
 ### **1️⃣ Clone the Repository**
 ```bash
-git clone https://github.com/Ariobarzanes98/vehicle-support-chatbot.git
+git clone https://github.com/m-nasereslami/vehicle-support-chatbot.git
 cd vehicle-support-chatbot
 ```
 
